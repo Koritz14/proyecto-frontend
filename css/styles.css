@@ -1,1 +1,50 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 3);
+}
+
+header h1, header p {
+    margin: 0;
+    padding: 10px 0;
+}
+
+h2{
+    font-family: 'Lato';
+    font-size: 28px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(19, 15, 34);
+}
+
+nav li {
+    font-family: calibri;
+    color: white;
+    padding: 15px;
+}
+
+nav ul li {
+    padding: 15px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
 
