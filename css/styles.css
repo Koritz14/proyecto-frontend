@@ -20,6 +20,7 @@ header h1, header p {
 h2{
     font-family: 'Lato';
     font-size: 28px;
+    text-align: center;
 }
 
 nav ul {
